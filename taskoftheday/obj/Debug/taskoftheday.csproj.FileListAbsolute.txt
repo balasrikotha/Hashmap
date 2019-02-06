@@ -1,6 +1,0 @@
-c:\users\naga.kotha\documents\visual studio 2015\Projects\taskoftheday\taskoftheday\bin\Debug\taskoftheday.exe.config
-C:\Users\naga.kotha\Documents\Visual Studio 2015\Projects\taskoftheday\taskoftheday\bin\Debug\taskoftheday.exe
-C:\Users\naga.kotha\Documents\Visual Studio 2015\Projects\taskoftheday\taskoftheday\bin\Debug\taskoftheday.pdb
-C:\Users\naga.kotha\Documents\Visual Studio 2015\Projects\taskoftheday\taskoftheday\obj\Debug\taskoftheday.csprojResolveAssemblyReference.cache
-C:\Users\naga.kotha\Documents\Visual Studio 2015\Projects\taskoftheday\taskoftheday\obj\Debug\taskoftheday.exe
-C:\Users\naga.kotha\Documents\Visual Studio 2015\Projects\taskoftheday\taskoftheday\obj\Debug\taskoftheday.pdb
